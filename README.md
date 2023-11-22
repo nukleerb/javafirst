@@ -1,4 +1,4 @@
-# python
+# python class ticket
 class Attendee:
     'Common base class for all attendees'
 
