@@ -13,8 +13,8 @@ class Attendee:
         self.tickets += 1
         print('{} tickets increased to {}'.format(self.name, self.tickets))
 
-attendee1 = Attendee('B. Giles', 2)
-attendee2 = Attendee('J. Ortega', 1)
+attendee1 = Attendee('B. Wolfie', 2)
+attendee2 = Attendee('J. Analyst', 1)
 attendee1.displayAttendee()
 attendee2.displayAttendee()
 attendee2.addTicket()
